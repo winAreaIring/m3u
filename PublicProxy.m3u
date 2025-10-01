@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE blank
- #Add
+ #临时
 #EXTINF:-1 group-title="临时",纬来体育台
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=b340757056cf27e97f0a4a85c1100c41e6acc2945b42494735f98474925fa3a2&hwTime=68200F3D
 
@@ -17,6 +17,8 @@ https://live.ottiptv.cc/douyu/9200778
 #B站
 
 #抖音
+#EXTINF:-1 group-title="抖音",跑跑-兰陵(端游道具)
+https://live.ottiptv.cc/douyin/rid/870385082635
 #EXTINF:-1 group-title="抖音",跑跑-浩浩(端游道具)
 https://live.ottiptv.cc/douyin/rid/527783300637
 #EXTINF:-1 group-title="抖音",跑跑-霸王(端游道具)
